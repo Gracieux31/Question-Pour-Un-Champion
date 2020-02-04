@@ -1,0 +1,34 @@
+.gamebackground {
+    background-image: url(qpuc.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.gamecontainer {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.bgg {
+    background: rgba(43, 52, 147, 0.9);
+    border-radius: 10px 10px;
+    padding: 20px 10px;
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+}
+
+.cus {
+    max-width: 45%;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.cus:hover {
+    background: rgba(9, 24, 107, 0.9);
+}
+
+.timervisual {
+    height: 20px;
+    transition: .5s;
+}
